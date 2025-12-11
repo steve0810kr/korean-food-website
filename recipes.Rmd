@@ -109,6 +109,7 @@ Happy cooking! – @steve0810kr
 ---
 
 <a id="dolsot-bibimbap"></a>
+
 ## Dolsot Bibimbap (돌솥비빔밥)
 
 ![](images/dolsot-bibimbap.jpg){width=40%}
@@ -138,6 +139,7 @@ Dolsot Bibimbap é servido em uma tigela de pedra quente que cria uma camada cro
 ---
 
 <a id="doenjang-jjigae"></a>
+
 ## Doenjang Jjigae (된장찌개)
 
 ![](images/doenjang-jjigae.jpg){width=40%}
@@ -164,6 +166,7 @@ A cozy soybean paste stew, very common in Korean homes.
 ---
 
 <a id="nurungji-chicken"></a>
+
 ## Nurungji Chicken (누룽지 백숙)
 
 ![](images/nurungji-chicken.jpg){width=40%}
