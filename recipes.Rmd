@@ -5,16 +5,16 @@ output: html_document
 
 # Korean Recipes 🍜
 
-Here are a few simple recipes inspired by Korean home cooking.  
-(Adjust the spice level to your taste!)
+Here are a few simple and popular Korean dishes you can try at home.  
+Adjust the spice level to your own taste!
 
 ---
-
-<section class="recipe-block">
 
 ## 1. Bibimbap (비빔밥)
 
 ![](images/bibimbap.jpg){width=40%}
+
+Bibimbap means **“mixed rice.”** It is a colorful bowl of rice topped with vegetables, meat (optional), egg, and spicy gochujang sauce.
 
 ### Ingredients (1–2 servings)
 
@@ -27,57 +27,55 @@ Here are a few simple recipes inspired by Korean home cooking.
 - 1 egg  
 - 1–2 tbsp **gochujang**  
 - 1 tsp **sesame oil**  
-- Sesame seeds, salt, garlic
+- Sesame seeds, salt, garlic, soy sauce
 
 ### Steps
 
-1. Prepare vegetables: quickly stir-fry or blanch spinach, carrot, bean sprouts, and mushrooms with a little oil, garlic, and salt.
-2. Cook the beef (if using) with soy sauce, garlic, and pepper.
-3. Fry an egg sunny-side up.
-4. Place rice in a bowl and arrange the vegetables and meat on top in sections.
-5. Add the fried egg in the center.
-6. Add gochujang and sesame oil, sprinkle sesame seeds.
+1. Prepare vegetables: quickly stir-fry or blanch spinach, carrot, bean sprouts, and mushrooms with a little oil, garlic, and salt.  
+2. Cook the beef (if using) with soy sauce, garlic, and pepper.  
+3. Fry an egg sunny-side up.  
+4. Put cooked rice in a bowl and arrange the vegetables and meat on top in sections.  
+5. Place the fried egg in the center.  
+6. Add gochujang and sesame oil, sprinkle sesame seeds.  
 7. Mix everything well before eating.
-
-</section>
 
 ---
 
-<section class="recipe-block">
-
 ## 2. Kimchi Jjigae (김치찌개 – Kimchi Stew)
 
-![](images/kimchi-stew.jpg){width=20%}
+![](images/kimchi-stew.jpg){width=40%}
+
+Kimchi jjigae is a warm, spicy stew made with aged kimchi. It’s one of the most common Korean home dishes.
 
 ### Ingredients
 
 - 1 cup well-fermented kimchi  
-- 100–150 g pork belly or tofu  
+- 100–150 g pork belly **or** tofu  
 - 2 cups water or anchovy broth  
 - 1 tbsp gochujang  
 - 1 tbsp gochugaru (red pepper flakes) – optional  
 - 1 tsp minced garlic  
 - 1 tbsp soy sauce  
-- Green onion
+- 1/2 onion, sliced  
+- Green onion (for garnish)
 
 ### Steps
 
-1. In a pot, stir-fry kimchi and pork (or tofu) with a little oil and garlic.
-2. Add gochujang and mix well.
-3. Add water/broth and bring to a boil.
-4. Season with soy sauce and gochugaru (if you want it spicier).
-5. Simmer for 15–20 minutes.
-6. Add chopped green onion at the end and serve with rice.
-
-</section>
+1. In a pot, stir-fry kimchi and pork (or tofu) with a little oil and garlic.  
+2. Add sliced onion and cook for 1–2 minutes.  
+3. Add gochujang and mix well.  
+4. Pour in water/broth and bring to a boil.  
+5. Season with soy sauce and gochugaru (if you want it spicier).  
+6. Simmer for about 15–20 minutes.  
+7. Add chopped green onion at the end and serve hot with rice.
 
 ---
 
-<section class="recipe-block">
-
 ## 3. Tteokbokki (떡볶이 – Spicy Rice Cakes)
 
-![](images/tteokbokki.jpg){width=20%}
+![](images/tteokbokki.jpg){width=40%}
+
+Tteokbokki is a famous Korean street food: chewy rice cakes in a sweet and spicy red sauce.
 
 ### Ingredients
 
@@ -88,21 +86,21 @@ Here are a few simple recipes inspired by Korean home cooking.
 - 1 tbsp soy sauce  
 - Fish cakes (optional)  
 - Green onion  
-- Boiled egg (optional)
+- 1 boiled egg (optional)
 
 ### Steps
 
-1. In a pan, mix water, gochujang, sugar, and soy sauce. Bring to a boil.
-2. Add rice cakes and cook until soft and sauce becomes thick.
-3. Add fish cakes and green onion, cook a few more minutes.
-4. Serve hot with a boiled egg on top if you like.
-
-</section>
+1. In a pan, mix water, gochujang, sugar, and soy sauce. Bring to a gentle boil.  
+2. Add rice cakes and cook until they become soft and the sauce starts to thicken.  
+3. Add fish cakes and chopped green onion, cook a few more minutes.  
+4. Serve hot, with a boiled egg on top if you like.
 
 ---
 
-<span class="badge-tip">Tip</span>  
-You can reduce gochujang or add a little sugar if you don’t like very spicy food.
+## Tips 🌶
+
+- Reduce gochujang or add a bit more sugar if you prefer **less spicy** food.  
+- Most ingredients can be found in **Korean or Asian supermarkets**.  
 
 <footer>
 Happy cooking! – @steve0810kr
