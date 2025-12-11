@@ -46,6 +46,31 @@ It’s a popular street food, especially with fish cakes and boiled eggs.
 
 ---
 
+# ⭐ Favorite K-Food
+
+## 🥘 Dolsot Bibimbap (돌솥비빔밥)
+![](images/dolsot-bibimbap.jpg){width=40%}
+
+A sizzling stone-pot bibimbap that creates crispy rice at the bottom — deeply satisfying and perfect with spicy gochujang.
+
+---
+
+## 🍲 Doenjang Jjigae (된장찌개)
+![](images/doenjang-jjigae.jpg){width=40%}
+
+A cozy soybean paste stew made with tofu, vegetables, and deep fermented flavor.  
+Simple, earthy, and one of the most “home-style” Korean soups.
+
+---
+
+## 🍗 Nurungji Chicken (누룽지 백숙)
+![](images/nurungji-chicken.jpg){width=40%}
+
+Korean chicken soup cooked together with toasted rice (*nurungji*), creating a rich, slightly smoky taste.  
+Perfect on cold Korean winter days.
+
+---
+
 ## How to Use This Website
 
 - Go to the **About** page to learn more about Korean food culture.  
