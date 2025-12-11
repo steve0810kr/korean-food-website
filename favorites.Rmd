@@ -1,0 +1,41 @@
+---
+title: "Favorite Korean Foods"
+output: html_document
+---
+
+# My Favorite Korean Foods ❤️🇰🇷  
+
+Below are three of my personal favorite Korean dishes — warm, comforting, and full of deep flavor.
+
+---
+
+## 🥘 Dolsot Bibimbap (돌솥비빔밥)
+
+![](images/dolsot-bibimbap.jpg){width=45%}
+
+Served in a sizzling stone pot, this version of bibimbap creates a delicious crispy rice layer at the bottom called **nurungji**.  
+Mixed with gochujang, vegetables, and a fried egg — pure happiness!
+
+---
+
+## 🍲 Doenjang Jjigae (된장찌개)
+
+![](images/doenjang-jjigae.jpg){width=45%}
+
+A comforting soybean paste stew made with tofu, zucchini, mushrooms, and sometimes pork.  
+Rich, savory, and perfect with a warm bowl of rice.
+
+---
+
+## 🍗 Nurungji Chicken (누룽지 백숙)
+
+![](images/nurungji-chicken.jpg){width=45%}
+
+A traditional Korean chicken soup with crunchy rice flakes (*nurungji*).  
+Warm, earthy, and incredibly comforting — especially on cold days in Korea.
+
+---
+
+<footer>
+Favorites curated by @steve0810kr 🇰🇷❤️
+</footer>
