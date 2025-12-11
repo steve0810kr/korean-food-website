@@ -47,7 +47,7 @@ Here are a few simple recipes inspired by Korean home cooking.
 
 ## 2. Kimchi Jjigae (김치찌개 – Kimchi Stew)
 
-![](images/kimchi-stew.jpg){width=40%}
+![](images/kimchi-stew.jpg){width=20%}
 
 ### Ingredients
 
@@ -77,7 +77,7 @@ Here are a few simple recipes inspired by Korean home cooking.
 
 ## 3. Tteokbokki (떡볶이 – Spicy Rice Cakes)
 
-![](images/tteokbokki.jpg){width=40%}
+![](images/tteokbokki.jpg){width=20%}
 
 ### Ingredients
 

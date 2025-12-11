@@ -1,6 +1,7 @@
 name: "korean-food-website"
 output_dir: "docs"
 
+
 navbar:
   title: "Korean Food"
   left:
@@ -10,6 +11,8 @@ navbar:
       href: about.html
     - text: "Recipes"
       href: recipes.html
+    - text: "Favorites"
+      href: favorites.html
 
 output:
   html_document:
