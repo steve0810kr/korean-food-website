@@ -1,0 +1,73 @@
+/* styles.css - colorful style for Korean Food website */
+
+body {
+  background: linear-gradient(135deg, #fff7f0, #ffe9f3);
+}
+
+.main-container, .container-fluid {
+  background-color: #ffffffee;
+  padding: 20px 25px;
+  border-radius: 18px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+h1, h2, h3, h4 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+h1 { color: #e74c3c; }
+h2 { color: #16a085; }
+h3 { color: #2980b9; }
+
+.navbar {
+  border-radius: 0 0 14px 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.navbar-nav > li > a:hover {
+  background-color: rgba(255,255,255,0.2);
+}
+
+img {
+  border-radius: 18px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+  margin-bottom: 15px;
+}
+
+ul li {
+  margin-bottom: 6px;
+}
+
+section.recipe-block {
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 18px 20px;
+  margin-bottom: 22px;
+  border-left: 6px solid #e74c3c;
+}
+
+span.badge-tip {
+  display: inline-block;
+  background: #f39c12;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.8em;
+  margin-right: 6px;
+}
+
+footer {
+  margin-top: 30px;
+  padding-top: 10px;
+  font-size: 0.85em;
+  color: #7f8c8d;
+  text-align: center;
+}
