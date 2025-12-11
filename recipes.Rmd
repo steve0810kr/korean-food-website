@@ -105,3 +105,82 @@ Tteokbokki is a famous Korean street food: chewy rice cakes in a sweet and spicy
 <footer>
 Happy cooking! – @steve0810kr
 </footer>
+
+---
+
+<a id="dolsot-bibimbap"></a>
+## Dolsot Bibimbap (돌솥비빔밥)
+
+![](images/dolsot-bibimbap.jpg){width=40%}
+
+Dolsot Bibimbap é servido em uma tigela de pedra quente que cria uma camada crocante de arroz chamada **nurungji**.
+
+### Ingredients
+
+- Cooked rice  
+- Vegetables (spinach, carrots, mushrooms, zucchini)  
+- Bean sprouts  
+- Beef (optional)  
+- 1 egg  
+- Gochujang  
+- Sesame oil  
+- Garlic, salt, sesame seeds  
+
+### Steps
+
+1. Heat the stone pot with a little sesame oil.  
+2. Add rice and let the bottom get crispy.  
+3. Cook vegetables separately and season lightly.  
+4. Add beef (optional).  
+5. Crack an egg on top and serve with gochujang.  
+6. Mix everything before eating.
+
+---
+
+<a id="doenjang-jjigae"></a>
+## Doenjang Jjigae (된장찌개)
+
+![](images/doenjang-jjigae.jpg){width=40%}
+
+A cozy soybean paste stew, very common in Korean homes.
+
+### Ingredients
+
+- 2 tbsp doenjang  
+- Tofu  
+- Potato or zucchini  
+- Mushrooms  
+- Onion  
+- Garlic  
+- Water or broth  
+
+### Steps
+
+1. Add doenjang to boiling water.  
+2. Add vegetables and tofu.  
+3. Simmer around 10–15 minutes.  
+4. Add green onion and serve with rice.
+
+---
+
+<a id="nurungji-chicken"></a>
+## Nurungji Chicken (누룽지 백숙)
+
+![](images/nurungji-chicken.jpg){width=40%}
+
+Chicken soup with toasted rice (*nurungji*), warm and comforting.
+
+### Ingredients
+
+- Chicken pieces  
+- Water  
+- Garlic & ginger  
+- Salt and pepper  
+- Nurungji (toasted rice)  
+
+### Steps
+
+1. Boil chicken with garlic and ginger.  
+2. Add salt and pepper.  
+3. Add nurungji and simmer until soft.  
+4. Serve hot.
