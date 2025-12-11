@@ -1,0 +1,42 @@
+---
+title: "About Korean Food"
+output: html_document
+---
+
+# About Korean Food Culture
+
+Korean meals are often built around **rice (밥)**, **soup (국/탕)**, and several **side dishes (반찬)**.  
+Sharing food is very important in Korean culture, and meals are usually eaten together at the table.
+
+---
+
+## Key Characteristics
+
+- **Fermentation:** kimchi, doenjang (fermented soybean paste), gochujang  
+- **Balance of flavors:** spicy, salty, sweet, sour, and umami  
+- **Colorful plates:** ingredients with different colors for visual harmony  
+
+---
+
+## Eating Style
+
+In a typical Korean meal:
+
+- Everyone gets their own bowl of rice and soup.  
+- Side dishes are placed in the center and shared.  
+- Chopsticks and a spoon are used instead of forks and knives.  
+
+---
+
+## Famous Ingredients
+
+- **Gochujang (고추장):** spicy red chili paste  
+- **Doenjang (된장):** fermented soybean paste used in soups and stews  
+- **Sesame oil (참기름):** adds a nutty aroma  
+- **Garlic and green onion:** almost everywhere!
+
+---
+
+<footer>
+This site is part of my Korean food journey in Korea – @steve0810kr
+</footer>

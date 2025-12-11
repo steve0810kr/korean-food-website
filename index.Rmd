@@ -1,0 +1,58 @@
+---
+title: "Welcome to Korean Food"
+output: html_document
+---
+
+# Welcome! 🇰🇷🍲
+
+Welcome to my colorful Korean food website created by **@steve0810kr**!
+
+Korean food is famous for its **bold flavors**, **fermented ingredients**, and **colorful dishes**.
+
+This website will introduce:
+
+- 🌶 Basic information about Korean food culture  
+- 🍚 Where some dishes come from  
+- 🍲 Simple home-friendly recipes you can try  
+
+---
+
+## Popular Korean Dishes
+
+### Kimchi (김치)
+
+![](images/kimchi.jpg){width=40%}
+
+Kimchi is a traditional fermented side dish made with cabbage, radish, chili pepper, garlic, and fish sauce.
+It is served with almost every meal and is considered the heart of Korean cuisine.
+
+---
+
+### Bibimbap (비빔밥)
+
+![](images/bibimbap.jpg){width=40%}
+
+Bibimbap literally means “mixed rice.”  
+It usually includes rice, seasoned vegetables, gochujang (chili paste), sesame oil, and sometimes beef and fried egg.
+
+---
+
+### Tteokbokki (떡볶이)
+
+![](images/tteokbokki.jpg){width=40%}
+
+Tteokbokki is a chewy rice cake dish cooked in a spicy-sweet red sauce made with gochujang.
+It’s a popular street food, especially with fish cakes and boiled eggs.
+
+---
+
+## How to Use This Website
+
+- Go to the **About** page to learn more about Korean food culture.  
+- Visit the **Recipes** page to see step-by-step recipes you can cook at home.
+
+---
+
+<footer>
+Made with ❤️ in RStudio & GitHub Pages by @steve0810kr
+</footer>
