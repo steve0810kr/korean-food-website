@@ -1,41 +1,41 @@
 ---
-title: "Favorite Korean Foods"
+title: "Favorite K-Food"
 output: html_document
 ---
 
-# My Favorite Korean Foods ❤️🇰🇷  
+# ⭐ My Favorite Korean Foods
 
-Below are three of my personal favorite Korean dishes — warm, comforting, and full of deep flavor.
+Click the images below to jump directly to each full recipe on the **Recipes** page.
 
 ---
 
 ## 🥘 Dolsot Bibimbap (돌솥비빔밥)
 
-![](images/dolsot-bibimbap.jpg){width=45%}
+[![](images/dolsot-bibimbap.jpg){width=40%}](recipes.html#dolsot-bibimbap)
 
-Served in a sizzling stone pot, this version of bibimbap creates a delicious crispy rice layer at the bottom called **nurungji**.  
-Mixed with gochujang, vegetables, and a fried egg — pure happiness!
+A sizzling stone-pot version of bibimbap with crispy rice at the bottom (*nurungji*).  
+Click the image to open the full recipe on the Recipes page!
 
 ---
 
 ## 🍲 Doenjang Jjigae (된장찌개)
 
-![](images/doenjang-jjigae.jpg){width=45%}
+[![](images/doenjang-jjigae.jpg){width=40%}](recipes.html#doenjang-jjigae)
 
-A comforting soybean paste stew made with tofu, zucchini, mushrooms, and sometimes pork.  
-Rich, savory, and perfect with a warm bowl of rice.
+A cozy, home-style soybean paste stew.  
+Click the image to see the detailed recipe.
 
 ---
 
 ## 🍗 Nurungji Chicken (누룽지 백숙)
 
-![](images/nurungji-chicken.jpg){width=45%}
+[![](images/nurungji-chicken.jpg){width=40%}](recipes.html#nurungji-chicken)
 
-A traditional Korean chicken soup with crunchy rice flakes (*nurungji*).  
-Warm, earthy, and incredibly comforting — especially on cold days in Korea.
+Comforting chicken soup with toasted rice (*nurungji*).  
+Click the image to jump to the full recipe.
 
 ---
 
 <footer>
-Favorites curated by @steve0810kr 🇰🇷❤️
+Favorite dishes selected by @steve0810kr 🍲🇰🇷
 </footer>

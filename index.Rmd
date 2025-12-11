@@ -46,17 +46,3 @@ It’s a popular street food, especially with fish cakes and boiled eggs.
 
 ---
 
-# ⭐ Favorite K-Food
-
-## 🥘 Dolsot Bibimbap (돌솥비빔밥)
-[![](images/dolsot-bibimbap.jpg){width=40%}](recipes.html#dolsot-bibimbap)
-
----
-
-## 🍲 Doenjang Jjigae (된장찌개)
-[![](images/doenjang-jjigae.jpg){width=40%}](recipes.html#doenjang-jjigae)
-
----
-
-## 🍗 Nurungji Chicken (누룽지 백숙)
-[![](images/nurungji-chicken.jpg){width=40%}](recipes.html#nurungji-chicken)
